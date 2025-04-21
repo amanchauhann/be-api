@@ -14,7 +14,7 @@
       "tagline": "Enable seamless recurring payments on your platform with UPI Autopay for bills, EMIs, OTT subscriptions, insurance, mutual funds, and more.",
       "buttonText": "Explore Now",
       "newTab": false,
-      "buttonLink": "requests.SIGNUP",
+      "buttonLink": "https://decentro.tech/signup",
       "imageSrc": "/images/resources/upi-autopay.svg",
       "altText": "UPI Autopay APIs for business",
       "DBackground": true
@@ -286,7 +286,7 @@
     "textAndButtonBannerTransparent3": {
       "text": "<br/><span>Got Questions?</span>",
       "ctaButtonText": "Talk to Our Experts Now!",
-      "ctaButtonLink": "requests.SIGNUP"
+      "ctaButtonLink": "https://decentro.tech/signup"
     },
     "bulletPointsAndTextBlock": {
       "headingLight": "UPI Autopay for Business ",
@@ -328,7 +328,7 @@
       "text": "Real-time Payments. 5X Reduced Collection Costs. UPI APIs For Your Business<br/><span>Sign-up Today, Go Live Tomorrow!</span>",
       "ctaButtonText": "Get Started",
       "newTab": false,
-      "ctaButtonLink": "requests.SIGNUP"
+      "ctaButtonLink": "https://decentro.tech/signup"
     },
     "recommendedPages": [
       {
@@ -360,7 +360,7 @@
       "tagline": "Enable seamless recurring payments on your platform with UPI Autopay for bills, EMIs, OTT subscriptions, insurance, mutual funds, and more.",
       "buttonText": "Explore Now",
       "newTab": false,
-      "buttonLink": "requests.SIGNUP",
+      "buttonLink": "https://decentro.tech/signup",
       "imageSrc": "/images/resources/upi-autopay.svg",
       "altText": "UPI Autopay APIs for business",
       "DBackground": true
@@ -632,7 +632,7 @@
     "textAndButtonBannerTransparent3": {
       "text": "<br/><span>Got Questions?</span>",
       "ctaButtonText": "Talk to Our Experts Now!",
-      "ctaButtonLink": "requests.SIGNUP"
+      "ctaButtonLink": "https://decentro.tech/signup"
     },
     "bulletPointsAndTextBlock": {
       "headingLight": "UPI Autopay for Business ",
@@ -674,7 +674,7 @@
       "text": "Real-time Payments. 5X Reduced Collection Costs. UPI APIs For Your Business<br/><span>Sign-up Today, Go Live Tomorrow!</span>",
       "ctaButtonText": "Get Started",
       "newTab": false,
-      "ctaButtonLink": "requests.SIGNUP"
+      "ctaButtonLink": "https://decentro.tech/signup"
     },
     "recommendedPages": [
       {
